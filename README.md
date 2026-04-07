@@ -39,3 +39,13 @@ A Python-based network monitoring system that tracks device availability on a lo
 - Detect full network outages
 - Cloud logging (AWS S3 / CloudWatch)
 - Bandwidth monitoring per device
+
+### 📸 Screenshots
+
+**1️⃣ Script running in CMD / PowerShell**
+
+![CMD_Powershell_Run](screenshots/CMD_Powershell_Run.png)
+
+**2️⃣ Telegram Alert on iPhone**
+
+![Telegram_Alert](screenshots/Telegram_Alert.png)
