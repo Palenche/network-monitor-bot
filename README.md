@@ -44,8 +44,8 @@ A Python-based network monitoring system that tracks device availability on a lo
 
 **1️⃣ Script running in CMD / PowerShell**
 
-![CMD_Powershell_Run](screenshots/CMD_Powershell_Run.png)
+![CMD_Powershell_Run](screenshots/CMD_Powershell_Run.PNG)
 
 **2️⃣ Telegram Alert on iPhone**
 
-![Telegram_Alert](screenshots/Telegram_Alert.png)
+![Telegram_Alert](screenshots/Telegram_Alert.PNG)
